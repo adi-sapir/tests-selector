@@ -41,6 +41,7 @@ ENV/
 htmlcov/
 .pytest_cache/
 .tox/
+src/tests_selector/vector_store/
 
 # Distribution
 dist/
