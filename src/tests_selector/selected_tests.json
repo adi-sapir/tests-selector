@@ -1,0 +1,22 @@
+{
+  "selected_tests": [
+    {
+      "file": "/System/Volumes/Data/p4client/Automation/main_branch/Features/plugins_tests/TESTS_FOR_APPROVAL/DAW_SV_collapse_expand_GUI.feature",
+      "scenario": "Collapse Expand - @TRACK_FORMAT - @SELECTED_PLUGIN - @COMP_TYPE",
+      "reason": "This test is relevant as it checks the functionality of the slot menu control in different scenarios of collapsing and expanding the UI, which is directly related to the new SlotContainer code change.",
+      "similarity_score": 0.4593072831630707
+    },
+    {
+      "file": "/System/Volumes/Data/p4client/Automation/main_branch/Features/plugins_tests/daw_common_tests/DAW_open_close_UI.feature",
+      "scenario": "Open/close UI - @PLUGIN_NAME - m2s",
+      "reason": "This test is relevant as it checks the functionality of the slot menu control when opening and closing the UI, which could be affected by the new SlotContainer code change.",
+      "similarity_score": 0.4455983340740204
+    },
+    {
+      "file": "/System/Volumes/Data/p4client/Automation/main_branch/Features/plugins_tests/daw_common_tests/DAW_collapse_expand_GUI_verification.feature",
+      "scenario": "Collapse Expand - @TRACK_FORMAT - @PLUGIN_NAME",
+      "reason": "This test is relevant as it checks the functionality of the slot menu control in different scenarios of collapsing and expanding the UI, which is directly related to the new SlotContainer code change.",
+      "similarity_score": 0.4451288878917694
+    }
+  ]
+}

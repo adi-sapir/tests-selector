@@ -1,0 +1,3 @@
+LV-21958: mute lights not synchronized after releasing SOLO Issue: some modification in the animation timer calculation threw the sync off Solution: revert back this specific modification in sync (pun-intended) with the dev who modified it.
+
+LV-22231 - Plugin menu can open over irrelevant tabs. when using touch screen if I click to open the Plug menu from Overview or from Rack tab and immediately move to other tab like Setup or Show or Patch . the plugin menu will stay open .
